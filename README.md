@@ -9,8 +9,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/GitHub-AlanHerrera01-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alan-herrera-araujo-6a823a339"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br><br>
 
