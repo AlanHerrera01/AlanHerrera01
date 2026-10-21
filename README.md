@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/AlanHerrera01"><img src="https://img.shields.io/badge/GitHub-AlanHerrera01-10b981?style=for-the-badge&logo=github&logoColor=4edea3&labelColor=0a0e17" /></a>
-<a href="https://linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-06b6d4?style=for-the-badge&logo=linkedin&logoColor=4cd7f6&labelColor=0a0e17" /></a>
+<a href="[https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/alan-herrera-araujo-6a823a339/)"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-06b6d4?style=for-the-badge&logo=linkedin&logoColor=4cd7f6&labelColor=0a0e17" /></a>
 <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-8b5cf6?style=for-the-badge&logo=gmail&logoColor=d0bcff&labelColor=0a0e17" /></a>
 
 <br><br>
