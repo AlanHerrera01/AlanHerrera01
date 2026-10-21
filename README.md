@@ -10,29 +10,26 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AlanHerrera01&label=VISITAS&color=10b981&labelColor=0a0e17&style=flat-square" alt="visitas" />
-<img src="https://img.shields.io/github/followers/AlanHerrera01?label=SEGUIDORES&color=06b6d4&labelColor=0a0e17&style=flat-square" alt="seguidores" />
+<img src="https://img.shields.io/badge/ROL-FULL_STACK-10b981?labelColor=0a0e17&style=flat-square" alt="rol" />
+<img src="https://img.shields.io/badge/ENFOQUE-IA_APLICADA-06b6d4?labelColor=0a0e17&style=flat-square" alt="enfoque" />
 <img src="https://img.shields.io/badge/REPOS-42-8b5cf6?labelColor=0a0e17&style=flat-square" alt="repos" />
+<img src="https://img.shields.io/badge/ESTADO-ABIERTO_A_OFERTAS-10b981?labelColor=0a0e17&style=flat-square" alt="estado" />
 
 </div>
 
 <br>
 
-## ❯ whoami
-
-```bash
-❯ whoami
-alan-herrera · full stack developer · applied AI
-
-❯ cat status.txt
-🟢 en línea — abierto a colaboraciones y oportunidades laborales
-```
+## ❯ about
 
 <div align="center">
 
-![Construyendo](https://img.shields.io/badge/CONSTRUYENDO-NEXUS_AI_OS-06b6d4?style=flat-square&labelColor=0a0e17)
-![Competiendo](https://img.shields.io/badge/COMPITIENDO-HACKATHONS-10b981?style=flat-square&labelColor=0a0e17)
-![Practicando](https://img.shields.io/badge/PRACTICANDO-CI%2FCD-8b5cf6?style=flat-square&labelColor=0a0e17)
+<img src="assets/terminal.svg" width="100%" alt="Terminal: Alan Herrera, full stack developer, applied AI" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CONSTRUYENDO-NEXUS_AI_OS-06b6d4?style=for-the-badge&logo=python&logoColor=4cd7f6&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/COMPITIENDO-HACKATHONS-10b981?style=for-the-badge&logo=devpost&logoColor=4edea3&labelColor=0a0e17" />
+<img src="https://img.shields.io/badge/PRACTICANDO-CI%2FCD-8b5cf6?style=for-the-badge&logo=githubactions&logoColor=d0bcff&labelColor=0a0e17" />
 
 </div>
 
@@ -238,20 +235,8 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AlanHerrera01&show_icons=true&hide_border=false&border_radius=12&bg_color=0f131c&title_color=4edea3&text_color=dfe2ef&icon_color=4cd7f6&border_color=3c4a42&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanHerrera01&layout=compact&langs_count=6&border_radius=12&bg_color=0f131c&title_color=4edea3&text_color=dfe2ef&border_color=3c4a42" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=AlanHerrera01&background=0f131c&border=3c4a42&stroke=3c4a42&ring=4edea3&fire=4cd7f6&currStreakNum=dfe2ef&sideNums=dfe2ef&currStreakLabel=4edea3&sideLabels=bbcabf&dates=86948a&border_radius=12" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanHerrera01&bg_color=0f131c&color=4edea3&line=4cd7f6&point=d0bcff&area=true&area_color=4edea3&title_color=4edea3&hide_border=true&radius=12" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlanHerrera01&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlanHerrera01&show_icons=true&hide=stars,issues&hide_rank=true&custom_title=Actividad%20reciente&border_radius=12&bg_color=0f131c&title_color=4edea3&text_color=dfe2ef&icon_color=4cd7f6&border_color=3c4a42&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanHerrera01&layout=compact&langs_count=6&custom_title=Lenguajes%20m%C3%A1s%20usados&border_radius=12&bg_color=0f131c&title_color=4edea3&text_color=dfe2ef&border_color=3c4a42" />
 
 </div>
 
