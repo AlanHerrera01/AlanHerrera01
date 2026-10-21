@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/AlanHerrera01"><img src="https://img.shields.io/badge/GitHub-AlanHerrera01-10b981?style=for-the-badge&logo=github&logoColor=4edea3&labelColor=0a0e17" /></a>
-<a href="[https://linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/alan-herrera-araujo-6a823a339/)"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-06b6d4?style=for-the-badge&logo=linkedin&logoColor=4cd7f6&labelColor=0a0e17" /></a>
+<a href="https://www.linkedin.com/in/alan-herrera-araujo-6a823a339/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-06b6d4?style=for-the-badge&logo=linkedin&logoColor=4cd7f6&labelColor=0a0e17" /></a>
 <a href="mailto:tu@correo.com"><img src="https://img.shields.io/badge/Email-Escr%C3%ADbeme-8b5cf6?style=for-the-badge&logo=gmail&logoColor=d0bcff&labelColor=0a0e17" /></a>
 
 <br><br>
@@ -136,6 +136,7 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 | [**SIAA · ChargeGuard**](https://github.com/AlanHerrera01/SIAA-ChargeGuard) | Proyecto en Python con licencia MIT. |
 | [**ALF · Omnimanip VLA**](https://github.com/AlanHerrera01/ALF-Omnimanip-VLA) | Manipulación robótica con modelos visión-lenguaje-acción. |
 | [**Taller 1**](https://github.com/AlanHerrera01/Taller1) | Ejercicios de práctica en Python. |
+| [**Deber Docker · DB**](https://github.com/AlanHerrera01/DeberDocker_DB) | Tarea de contenedores y bases de datos con Docker. |
 
 </details>
 
@@ -151,6 +152,11 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 | [**Proyecto Distribuidas Backend P2**](https://github.com/AlanHerrera01/Proyecto_Distribuidas_Backend_P2) | Backend del proyecto distribuido. |
 | [**Springlab**](https://github.com/AlanHerrera01/Springlab-AlanHerrera) | Laboratorio práctico de Spring. |
 | [**Pilas en C, Java y Python**](https://github.com/AlanHerrera01/PILAS_C_JAVA_PYTHON) | Pilas implementadas en varios lenguajes. |
+| [**Herrera Alan · Examen P3**](https://github.com/AlanHerrera01/HerreraAlan_ExamenP3) | Evaluación práctica en Java. |
+| [**Herrera Alan · Examen**](https://github.com/AlanHerrera01/HerreraAlan_Examen) | Evaluación práctica en Java. |
+| [**Herrera Alan · Lab 2**](https://github.com/AlanHerrera01/HerreraAlan_Lab2) | Laboratorio 2 en Java. |
+| [**Herrera Alan · Lección 1**](https://github.com/AlanHerrera01/HerreraAlan_Leccion1) | Lección 1 en Java. |
+| [**Banquito · File Reception Service**](https://github.com/AlanHerrera01/banquito-file-reception-service) | Servicio de recepción de archivos (fork de equipo). |
 
 </details>
 
@@ -164,16 +170,27 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 | [**Proyecto Avanzada P3**](https://github.com/AlanHerrera01/Proyecto_Avanzada_P3) | Proyecto de programación avanzada (TypeScript). |
 | [**MedGuard AI · Evolus AMD**](https://github.com/AlanHerrera01/MedGuard-AI-Track-Evolus-AMD-) | IA en salud para hackathon (JavaScript). |
 | [**Examen Distribuido P3**](https://github.com/AlanHerrera01/Examen_DistribuidoP3) | Evaluación práctica (JavaScript). |
+| [**Examen PIC P2**](https://github.com/AlanHerrera01/Examen_PIC_P2) | Evaluación práctica (TypeScript). |
+| [**Herrera Alan · Examen 2**](https://github.com/AlanHerrera01/HerreraAlan_Examen2) | Evaluación práctica (JavaScript). |
+| [**Proyecto P1**](https://github.com/AlanHerrera01/Proyecto_P1) | Primer proyecto (JavaScript). |
+| [**Lab 1 · PIC 2025**](https://github.com/AlanHerrera01/Lab1_PIC2025) | Laboratorio 1 de PIC (JavaScript). |
 
 </details>
 
 <details open>
-<summary><b>🐘 PHP</b></summary>
+<summary><b>🐘 PHP · HTML · SCSS (web)</b></summary>
 <br>
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [**PayLab · SIGS Parcial 3**](https://github.com/AlanHerrera01/PayLab-SIGS-Parcial3) | Laboratorio de pagos para la materia SIGS. |
+| [**PayLab · SIGS Parcial 3**](https://github.com/AlanHerrera01/PayLab-SIGS-Parcial3) | Laboratorio de pagos para la materia SIGS (PHP). |
+| [**WEB2 · PHP**](https://github.com/AlanHerrera01/WEB2-PHP) | Proyecto web de la materia Web 2 (PHP). |
+| [**Proyecto WEB2EW**](https://github.com/AlanHerrera01/PROYECTO-WEB2EW) | Proyecto web con estilos SCSS. |
+| [**Tarea 01 · Web 2**](https://github.com/AlanHerrera01/Tarea01_Web2.io) | Tarea de Web 2 (PHP). |
+| [**AlanHerrera01.github.io**](https://github.com/AlanHerrera01/AlanHerrera01.github.io) | Proyecto PIII FW (PHP). |
+| [**3788 · Grupo 02 · Lab**](https://github.com/AlanHerrera01/3788_GRUPO02_LAB) | Laboratorio grupal (HTML). |
+| [**3788 · Grupo 02 · Lab Scroll**](https://github.com/AlanHerrera01/3788_GRUPO02_LAB_Scroll) | Laboratorio grupal con scroll (HTML). |
+| [**Avherrera3.github.io**](https://github.com/AlanHerrera01/Avherrera3.github.io) | Sitio web estático (HTML). |
 
 </details>
 
@@ -185,6 +202,20 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 |----------|-------------|
 | [**Estructuras de Datos (E.D.D)**](https://github.com/AlanHerrera01/E.D.D) | Implementaciones de estructuras de datos. |
 | [**Listas en C++ y Python**](https://github.com/AlanHerrera01/LISTAS_CPLUSPLUS_PYTHON) | Operaciones sobre listas: agregar, insertar y eliminar. |
+| [**Trabajo Grupal**](https://github.com/AlanHerrera01/TrabajoGrupal) | Trabajo grupal en C++. |
+
+</details>
+
+<details>
+<summary><b>📁 Otros (documentación y repos sin lenguaje detectado)</b></summary>
+<br>
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [**Auditor VOICE · AVHA**](https://github.com/AlanHerrera01/Auditor-VOICE-AVHA) | Repositorio de proyecto en preparación. |
+| [**git-api**](https://github.com/AlanHerrera01/git-api) | Práctica con la API de Git. |
+| [**Documentación PPP · Herrera**](https://github.com/AlanHerrera01/5166_Documentacion_PPP_Herrera) | Documentación de las prácticas (PPP). |
+| [**Proyecto PIII F.W**](https://github.com/AlanHerrera01/ProjectoPIIIF.W) | Proyecto de la materia PIII. |
 
 </details>
 
@@ -199,6 +230,7 @@ Automatización de pruebas y despliegue para una aplicación Spring Boot.
 | [**MedGuard AI · Evolus AMD**](https://github.com/AlanHerrera01/MedGuard-AI-Track-Evolus-AMD-) | 🏆 Hackathon | ![JavaScript](https://img.shields.io/badge/-JavaScript-d0bcff?style=flat-square&logo=javascript&logoColor=0a0e17) |
 | [**Banquito · File Reception Service**](https://github.com/AlanHerrera01/banquito-file-reception-service) | 🤝 Fork de equipo | ![Java](https://img.shields.io/badge/-Java-10b981?style=flat-square&logo=openjdk&logoColor=0a0e17) |
 | [**Trabajo Grupal**](https://github.com/AlanHerrera01/TrabajoGrupal) | 👥 Proyecto grupal | ![C++](https://img.shields.io/badge/-C++-8b5cf6?style=flat-square&logo=cplusplus&logoColor=0a0e17) |
+| [**3788 · Grupo 02 · Lab**](https://github.com/AlanHerrera01/3788_GRUPO02_LAB) | 👥 Laboratorio grupal | ![HTML](https://img.shields.io/badge/-HTML-10b981?style=flat-square&logo=html5&logoColor=0a0e17) |
 
 <br>
 
